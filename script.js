@@ -13,7 +13,6 @@ const wallpapers = [
   { image: "wallpapers/12.jpg", title: "Radha-Krishna", category: "krishna" },
   { image: "wallpapers/13.jpg", title: "Radha-Krishna", category: "krishna" },
   { image: "wallpapers/14.jpg", title: "Radha-Krishna", category: "krishna" },
-  
   { image: "wallpapers/16.jpg", title: "BajrangBali", category: "BajrangBali" },
   { image: "wallpapers/17.jpg", title: "BajrangBali", category: "BajrangBali" },
   { image: "wallpapers/18.jpg", title: "BajrangBali", category: "BajrangBali" },
